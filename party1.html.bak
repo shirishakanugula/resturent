@@ -1,0 +1,83 @@
+
+  <html>
+ <head>
+  <link rel="stylesheet" href="webtecproject.css"></link>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"></link>
+  <title>Document</title>
+ </head>
+ <body>
+ <div>
+ 
+ <div id="div1">
+  <label>truYum</label><i class="fas fa-arrow-alt-circle-right"></i>
+
+  <label id="label"><a href="party1.html" class="color2">Menu</a></label>
+  <label id="label2"><a href="party1.html" class="color2">Cart</a></label>
+  </div>
+  <div id="div2">
+  <h1 id="h1">Menu items</h1>
+  <table>
+  <tr>
+  <th class="padding">Name</th>
+  <th class="padding">Price</th>
+  <th class="padding">active</th>
+  <th class="padding">Date of Launch</th>
+  <th class="padding">Category</th>
+  <th class="padding">Free Delivary</th>
+  <th class="padding">Action</th>
+  </tr>
+  <tr>
+  <td class="padding2">Sandwhich</td>
+  <td class="padding2">Rs.99.00</td>
+  <td class="padding2">Yes</td>
+  <td class="padding2">15/03/2017</td>
+  <td class="padding2">Main Course</td>
+  <td class="padding2">yes</td>
+  <td class="padding2"><a href="party3.html" class="color">Edit</a></td>
+  </tr>
+  <tr>
+  <td class="padding2">Burger</td>
+  <td class="padding2">Rs.129.00</td>
+  <td class="padding2">Yes</td>
+  <td class="padding2">23/12/2017</td>
+  <td class="padding2">Main Course</td>
+  <td class="padding2">No</td>
+  <td class="padding2"><a href="party3.html" class="color">Edit</a></td>
+  </tr>
+  <tr>
+  <td class="padding2">Pizza</td>
+  <td class="padding2">Rs.149.00</td>
+  <td class="padding2">Yes</td>
+  <td class="padding2">21/08/2017</td>
+  <td class="padding2">Main Course</td>
+  <td class="padding2">No</td>
+  <td class="padding2"><a href="party3.html" class="color">Edit</a></td>
+  </tr>
+  <tr>
+  <td class="padding2">French Fries</td>
+  <td class="padding2">Rs.57.00</td>
+  <td class="padding2">No</td>
+  <td class="padding2">02/07/2017</td>
+  <td class="padding2">Starters</td>
+  <td class="padding2">Yes</td>
+  <td class="padding2"><a href="party3.html" class="color">Edit</a></td>
+  </tr>
+  <tr>
+  <td class="padding2">Chocolate Brownie</td>
+  <td class="padding2">Rs.32.00</td>
+  <td class="padding2">Yes</td>
+  <td class="padding2">02/11/2022</td>
+  <td class="padding2">Dessert</td>
+  <td class="padding2">Yes</td>
+  <td class="padding2"><a href="party3.html" class="color">Edit</a></td>
+  </tr>
+  
+  </table>
+  </div>
+  <div id="div3">
+  CopyRight @ 2019
+  </div>
+  </body>
+  </html>
+ </body>
+</html>
